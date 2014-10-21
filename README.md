@@ -1,9 +1,8 @@
-PlotSquared
-===========
-Find us on spigot: [http://i-s.link/ps](http://i-s.link/ps "Spigot")
-<br>
-Find us on bukkit: [http://dev.bukkit.org/bukkit-plugins/plotsquared/](http://dev.bukkit.org/bukkit-plugins/plotsquared/ "BukkitDev")
-<br>
-PlotSquared Blog: [http://plotsquared.intellectualsites.com](http://plotsquared.intellectualsites.com "IntellectualSites")
+PlotSquared New Repo...
+==========================================================
+I (Citymonstret) managed to screw everything up, but it should be working now.
 
-This is the not the development repo, but rather one for releases. Whenever we release a new version on bukkit/spigot the source will be updated on here. We have an internal repo for development. Feel free to make pull requests and such on here though :)
+We removed maven support (yey!)
+
+Dependencies:
+[http://intellectualsites.com/download.php?key=a12f1474-6bbc-4017-ba43-d26f8de36a7c](http://intellectualsites.com/download.php?key=a12f1474-6bbc-4017-ba43-d26f8de36a7c "Dependencies (/lib)")
